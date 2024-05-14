@@ -25,7 +25,6 @@
             padding: 0;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
-            text-rendering: optimizeLegibility;
         }
         header {
             background-color: rgba(247, 248, 249, 1);
