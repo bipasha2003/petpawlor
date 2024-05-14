@@ -125,6 +125,7 @@ nb-configuration.xml
 /results/
 /phpunit*.xml
 
+env
 /env
 /.env
 /App.php
