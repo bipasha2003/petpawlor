@@ -127,4 +127,4 @@ nb-configuration.xml
 
 /env
 /.env
-/app/config
+/App.php
